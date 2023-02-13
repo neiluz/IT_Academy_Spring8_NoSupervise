@@ -23,7 +23,7 @@ Se quiere identificar  con la ayuda del aprendizaje automático ciertos grupos d
 * Sklearn
 
 # Featured Notebooks
-* [Jupyter Notebook - EDA - ML No Supervised](https://github.com/neiluz/IT_Academy_Spring9_Text_mining/blob/main/Spring_9_textMinning.ipynb)
+* [Jupyter Notebook - EDA - ML No Supervised](https://github.com/neiluz/IT_Academy_Spring8_NoSupervise/blob/main/Spring_81_MLNoSupervised.ipynb)
 
 # Sources
 * [K-means Clustering Tutorial](https://medium.com/analytics-vidhya/k-means-clustering-with-python-beginner-tutorial-45a44c34e7f)
